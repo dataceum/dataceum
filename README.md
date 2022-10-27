@@ -16,7 +16,7 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 - Product Management
 - Business Process Re-Engineering and IT Service Management
 
-<!-->
+<!--
 
 ## **Check out some of my repos**
 
