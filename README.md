@@ -19,15 +19,14 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 - Product Management
 - Business Process Re-Engineering and IT Service Management
 
-<!--
+#### **Check out some of my repos**
 
-## **Check out some of my repos**
-
-[![Repo](https://github.com/dataceum/course-collaboration-travel-plans)](https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans)
-<a href="https://github.com/dataceum/course-collaboration-travel-plans ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans " />
+<a href="https://github.com/dataceum/tmdb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=tmdb" />
 </a>
--->
+<a href="https://github.com/dataceum/wrd ">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=wrd" />
+</a>
 
 **Stats:**  
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats)
