@@ -10,15 +10,13 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 
 #### Specializations
 
-<hr style="border:.1px solid gray">
+---
 
 - Data Analytics
 - Product Management
 - Business Process Re-Engineering and IT Service Management
 
-**Check out some of my repos**
-
----
+## **Check out some of my repos**
 
 <a href="https://github.com/dataceum/course-collaboration-travel-plans ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans " />
