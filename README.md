@@ -8,6 +8,9 @@
 
 I am Evans Addo-Sampong, a highly versatile IT professional.
 
+- _Current Role_: Technical Project Manager (Dataceum Labs)
+- _Previous Role_: Customer Support Engineer (Crossover)
+
 #### Specializations
 
 ---
@@ -35,7 +38,7 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 
 ---
 
-I am certified **IT/Technical Project Manager** (Certified Scrum Master) and a **Data Analytics/Science** enthusiast. I am also a certified Data Analyst having successufly completed the Udacity Data Analyst Nanodegree
+I am certified **Technical Project Manager** (Certified Scrum Master) and a **Data Analytics/Science** enthusiast. I am also a certified Data Analyst having successufly completed the Udacity Data Analyst Nanodegree and a number of other professional courses in Data Analytics, Data Science and Machine Learning.
 
 Technology stack that I am proficient in include the following:
 
