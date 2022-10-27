@@ -4,7 +4,7 @@
 
 ---
 
-<!--[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dataceum.dataceum)](https://visitor-badge.laobi.icu/badge?page_id=dataceum.dataceum) -->[![Followers](https://img.shields.io/github/followers/dataceum?label=follow&style=social)](https://github.com/dataceum?tab=followers)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dataceum.dataceum)](https://visitor-badge.laobi.icu/badge?page_id=dataceum.dataceum) [![Followers](https://img.shields.io/github/followers/dataceum?label=follow&style=social)](https://github.com/dataceum?tab=followers)
 
 I am Evans Addo-Sampong, a highly versatile IT professional.
 
@@ -16,14 +16,15 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 - Product Management
 - Business Process Re-Engineering and IT Service Management
 
+<!-->
+
 ## **Check out some of my repos**
 
+[![Repo](https://github.com/dataceum/course-collaboration-travel-plans)](https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans)
 <a href="https://github.com/dataceum/course-collaboration-travel-plans ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans " />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans " />
 </a>
-<a href="https://github.com/dataceum/course-collaboration-travel-plans ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=course-collaboration-travel-plans " />
-</a>
+-->
 
 **Stats:**  
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats)
