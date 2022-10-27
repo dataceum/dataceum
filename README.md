@@ -35,7 +35,7 @@ I am Evans Addo-Sampong, a highly versatile IT professional.
 
 ---
 
-I am certified **IT/Technical Project Manager** (Certified Scrum Master) and a **Data Analytics/Science** enthusiast. I recently got certified as a Data Analyst after successufly comleting the Udacity Data Anaylst Nanodegree
+I am certified **IT/Technical Project Manager** (Certified Scrum Master) and a **Data Analytics/Science** enthusiast. I am also a certified Data Analyst having successufly completed the Udacity Data Analyst Nanodegree
 
 Technology stack that I am proficient in include the following:
 
