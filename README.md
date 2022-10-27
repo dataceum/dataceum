@@ -8,9 +8,10 @@
 
 🌱 I’m currently learning **Data Analytics and Data Science**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="dataceum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="dataceum" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataceum&" alt="dataceum" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dataceum&" alt="dataceum" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataceum&show_icons=true&locale=en&layout=default" alt="dataceum" /></p>
 
 #### Check out some of my repos
