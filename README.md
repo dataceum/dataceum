@@ -1,10 +1,5 @@
 ![Evans banner image](/img/dataceum_copy.jpg)
 
-<!-->
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dataceum.dataceum)
--->
-
 #### Hi 👋, I'm Evans Addo-Sampong
 
 ##### A passionate Technical Project Manager (Certified Scrum Master) and a Data Analytics/Data Science enthusiast
