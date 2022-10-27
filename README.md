@@ -8,11 +8,10 @@
 
 🌱 I’m currently learning **Data Analytics and Data Science**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataceum&show_icons=true&locale=en&layout=default" alt="dataceum" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="dataceum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="dataceum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataceum&" alt="dataceum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataceum&show_icons=true&locale=en&layout=default" alt="dataceum" /></p>
 
 #### Check out some of my repos
 
@@ -35,7 +34,7 @@
 
 <p align="left">
 <a href="mailto:evans@dtaceum.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-<a href="https://twitter.com/@addosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@addosampong" height="30" width="40" /></a>
+<a href="https://twitter.com/addosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@addosampong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evans-addo-sampong-a983457a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evans-addo-sampong-a983457a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/evansaddosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evansaddosampong" height="30" width="40" /></a>
 </p>
