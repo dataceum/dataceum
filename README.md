@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dataceum&label=Profile%20views&color=0e75b6&style=flat) [![Followers](https://img.shields.io/github/followers/dataceum?label=follow&style=social)](https://github.com/dataceum?tab=followers)
 
-🌱 I’m currently learning **Data Analytics and Data Science**
+#### My Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataceum&show_icons=true&locale=en&layout=default" alt="dataceum" /></p>
 
