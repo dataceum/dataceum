@@ -34,7 +34,7 @@
 #### Connect with me:
 
 <p align="left">
-<a href="mailto:evans@dataceum.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:evans@dataceum.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 <a href="https://twitter.com/addosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@addosampong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evans-addo-sampong-a983457a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evans-addo-sampong-a983457a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/evansaddosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evansaddosampong" height="30" width="40" /></a>
