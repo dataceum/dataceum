@@ -8,11 +8,11 @@
 
 #### My Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=addosampong&show_icons=true&locale=en&layout=default)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addosampong&show_icons=true&locale=en&layout=default" alt="addosampong" /></p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=addosampong&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addosampong&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="addosmapong" /></p>
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=addosampong&)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addosampong&" alt="addosampong" /></p>
 
 #### Check out some of my repos
 
