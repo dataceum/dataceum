@@ -4,26 +4,26 @@
 
 #### A passionate Technical Project Manager (Certified Scrum Master) and a Data Analytics/Data Science enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=dataceum&label=Profile%20views&color=0e75b6&style=flat) [![Followers](https://img.shields.io/github/followers/dataceum?label=follow&style=social)](https://github.com/dataceum?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=addosampong&label=Profile%20views&color=0e75b6&style=flat) [![Followers](https://img.shields.io/github/followers/addosampong?label=follow&style=social)](https://github.com/addosampong?tab=followers)
 
 #### My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataceum&show_icons=true&locale=en&layout=default" alt="dataceum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addosampong&show_icons=true&locale=en&layout=default" alt="addosampong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dataceum&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="dataceum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addosampong&count_private=false&theme=algolia&show_icons=true&custom_title=My%20Stats" alt="addosmapong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataceum&" alt="dataceum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addosampong&" alt="addosampong" /></p>
 
 #### Check out some of my repos
 
 <p>
-<a href="https://github.com/dataceum/tmdb">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=tmdb" />
+<a href="https://github.com/addosampong/tmdb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=tmdb" />
 </a>
 </p>
 <p>
-<a href="https://github.com/dataceum/wrd">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dataceum&repo=wrd" />
+<a href="https://github.com/addosampong/wrd">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=wrd" />
 </a>
 </p>
 
@@ -34,7 +34,7 @@
 #### Connect with me:
 
 <p align="left">
-<a href="mailto:evans@dtaceum.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:evans@dataceum.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 <a href="https://twitter.com/addosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@addosampong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evans-addo-sampong-a983457a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evans-addo-sampong-a983457a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/evansaddosampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evansaddosampong" height="30" width="40" /></a>
