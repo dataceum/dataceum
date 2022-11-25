@@ -26,6 +26,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=we_rate_dogs" />
 </a>
 </p>
+<p>
+<a href="https://github.com/addosampong/wrd">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=airlines_visualization" />
+</a>
+</p>
 
 #### Languages and Tools:
 
