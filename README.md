@@ -21,6 +21,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=tmdb" />
 </a>
 </p>
+
+<p>
+<a href="https://github.com/addosampong/tmdb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=tmdb" />
+</a>
+</p>
 <p>
 <a href="https://github.com/addosampong/wrd">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=we_rate_dogs" />
