@@ -17,8 +17,8 @@
 #### Check out some of my repos
 
 <p>
-<a href="https://github.com/addosampong/tmdb">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=tmdb" />
+<a href="https://github.com/addosampong/db-capstone-project">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addosampong&repo=db-capstone-project" />
 </a>
 </p>
 
