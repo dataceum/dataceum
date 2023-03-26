@@ -1,8 +1,8 @@
 ![Evans banner image](/img/dataceum_copy.jpg)
 
-### Hi 👋, I'm Evans Addo-Sampong
+### Hi 👋!
 
-#### I am passionate Technical Project Manager (Certified Scrum Master), a fullstack developer, a Meta Certified Database Engineer and a Data Analytics/Data Science enthusiast.
+#### I'm Evans Addo-Sampong, a passionate Technical Project Manager (Certified Scrum Master), a fullstack developer, a Meta Certified Database Engineer and a Data Analytics/Data Science enthusiast.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=addosampong&label=Profile%20views&color=0e75b6&style=flat) [![Followers](https://img.shields.io/github/followers/addosampong?label=follow&style=social)](https://github.com/addosampong?tab=followers)
 
